@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="93c02da0-b5fe-43ad-9c1e-a99600cae0e8" manual="true">
+    <element uuid="fc0b0b05-d36c-4d8b-b7be-adf7be9047a0" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>bac0</seg>
+      </bo>
+      <bendpoints>
+        <point x="178.4427032470703" y="110.0"/>
+        <point x="214.4427032470703" y="110.0"/>
+        <point x="214.4427032470703" y="241.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="5bb01262-fb64-42a3-be24-3ddb2c22e8db" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>bac1</seg>
+      </bo>
+      <bendpoints>
+        <point x="178.4427032470703" y="100.0"/>
+        <point x="224.4427032470703" y="100.0"/>
+        <point x="224.4427032470703" y="161.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="76cc3276-3545-4346-b40b-bd0d24360567" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>bac2</seg>
+      </bo>
+      <bendpoints>
+        <point x="178.4427032470703" y="130.0"/>
+        <point x="194.4427032470703" y="130.0"/>
+        <point x="194.4427032470703" y="401.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="4d738469-63b9-4437-bc19-d40422d8d41d" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>bac3</seg>
+      </bo>
+      <bendpoints>
+        <point x="178.4427032470703" y="90.0"/>
+        <point x="234.4427032470703" y="90.0"/>
+        <point x="234.4427032470703" y="108.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="f8edc72f-f8d6-4d04-8a52-78c904a541fe" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>bac4</seg>
+      </bo>
+      <bendpoints>
+        <point x="178.4427032470703" y="140.0"/>
+        <point x="184.4427032470703" y="140.0"/>
+        <point x="184.4427032470703" y="429.0"/>
+        <point x="1334.411376953125" y="429.0"/>
+        <point x="1334.411376953125" y="357.6666564941406"/>
+      </bendpoints>
+    </element>
+    <element uuid="7290039f-3f55-4116-bfc3-90b0c1361b44" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>bac5</seg>
+      </bo>
+      <bendpoints>
+        <point x="178.4427032470703" y="120.0"/>
+        <point x="204.4427032470703" y="120.0"/>
+        <point x="204.4427032470703" y="321.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="6682ced6-e5bd-480a-84e5-6cffd72a54f0" manual="true">
+      <bo>
+        <seg>connection</seg>
+        <seg>bac7</seg>
+      </bo>
+      <bendpoints>
+        <point x="174.4427032470703" y="80.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="df1d10e5-8f63-4a07-ab0c-7989893de954" manual="true">
+      <element uuid="0bec7e8e-1bca-43eb-9caa-2bd8b4fd8b54" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c0</seg>
+      </bo>
+    </element>
+    <element uuid="2bb15333-c151-4854-9061-d713840d46c5" manual="true">
+      <element uuid="76a2339d-ad8e-466f-ad7f-11cc64c74846" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c1</seg>
+      </bo>
+      <bendpoints>
+        <point x="710.68359375" y="161.0"/>
+        <point x="710.68359375" y="191.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="90329861-1107-46fb-a650-8b3c08a70f51" manual="true">
+      <element uuid="68c74ea6-ddfa-4315-bf7c-bbeb15edc975" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c2</seg>
+      </bo>
+      <bendpoints>
+        <point x="710.68359375" y="401.0"/>
+        <point x="710.68359375" y="341.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="0a25e247-bed1-4e12-a9c3-a34b5c6e4a3d" manual="true">
+      <element uuid="10eb4fce-736a-4561-b6a1-30ba72752d38" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c3</seg>
+      </bo>
+      <bendpoints>
+        <point x="710.68359375" y="321.0"/>
+        <point x="710.68359375" y="291.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="74f49040-4623-4afc-947b-94f80a8b4571" manual="true">
+      <element uuid="cc8e3701-9ef7-4506-9c25-f7ef4d08b4ba" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c4</seg>
+      </bo>
+      <bendpoints>
+        <point x="1334.411376953125" y="224.3333282470703"/>
+        <point x="1334.411376953125" y="158.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="ca50fb89-bb66-4dc9-b2bf-86441e910a0d" manual="true">
+      <element uuid="7b916378-3060-4655-b5e3-8a1bae86f50e" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c5</seg>
+      </bo>
+    </element>
+    <element uuid="1747fa8d-489c-4638-affe-af25c97fdd19" manual="true">
+      <element uuid="68fe9344-ced1-44de-a8ca-e3f26299177e" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_acc</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>cpu</seg>
+      </bo>
+      <position x="244.4427032470703" y="38.0"/>
+      <size width="202.0091094970703" height="60.0"/>
+    </element>
+    <element uuid="1053254b-8e80-41a9-9b34-2399817a27d3" manual="true">
+      <element uuid="a621486c-604a-4628-a1b1-1ba3b728537f" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>apply_break</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="eaa68873-9347-4454-8005-eed5e4807565" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_acc</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>rear_left_wheel_brake</seg>
+      </bo>
+      <position x="1344.411376953125" y="265.6666666666667"/>
+      <size width="358.4088439941406" height="110.0"/>
+    </element>
+    <element uuid="7ebdef2f-55d1-49a5-9d65-812ffd2a1044" manual="true">
+      <element uuid="be13c722-cbca-437c-97d4-0d2a41be7a99" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_acc</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="21839f6b-b28c-4352-b7cc-87b12bb646fb" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_wheel_speed</seg>
+        </bo>
+        <position x="308.5963668823242" y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>rear_left_wheel_ss</seg>
+      </bo>
+      <position x="248.51822662353516" y="359.0"/>
+      <size width="448.0898666381836" height="60.0"/>
+    </element>
+    <element uuid="a2c68429-4f7e-44ad-b501-1caba38e8d1b" manual="true">
+      <element uuid="775d130a-d380-4214-8004-7683bfc57d00" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>apply_break</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="257d4704-5452-4973-9ee1-dc912a4c5b30" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_acc</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>rear_right_wheel_brake</seg>
+      </bo>
+      <position x="1344.411376953125" y="66.0"/>
+      <size width="366.5598907470703" height="110.0"/>
+    </element>
+    <element uuid="3d65b4ba-0d8d-4467-a015-f047d832c9f7" manual="true">
+      <element uuid="1a0cdfff-bd4a-456c-bde0-c9e62644f7bd" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_acc</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="039bf727-f399-44f5-98d8-3f629401b952" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_wheel_speed</seg>
+        </bo>
+        <position x="316.7474136352539" y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>rear_right_wheel_ss</seg>
+      </bo>
+      <position x="244.4427032470703" y="119.0"/>
+      <size width="456.2409133911133" height="60.0"/>
+    </element>
+    <element uuid="4e208986-34b6-4d0f-99a4-4b5f8c0fa9b9" manual="true">
+      <element uuid="77744bff-fab7-4c26-a951-36b6523f452b" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_acc</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="1bab7750-5681-49b8-8aaa-15088785af57" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_speed</seg>
+        </bo>
+        <position x="232.2552032470703" y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>speedometer</seg>
+      </bo>
+      <position x="307.8151168823242" y="279.0"/>
+      <size width="329.49608612060547" height="60.0"/>
+    </element>
+    <element uuid="b0def1e1-a1e2-4e63-90ac-82941809e0f8" manual="true">
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>standard_tcs_bus</seg>
+      </bo>
+      <position x="12.0" y="70.0"/>
+      <size width="162.4427032470703" height="80.0"/>
+    </element>
+    <element uuid="31d5bd83-5304-4068-b2ae-818c6f619630" manual="true">
+      <element uuid="836bff30-6a43-4a5e-b725-34e30c840e1d" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>apply_rear_left_wheel_brake</seg>
+        </bo>
+        <position x="420.5038299560547" y="126.66666666666669"/>
+      </element>
+      <element uuid="e0480fdb-cbe6-4ae8-b804-6509cf7570d9" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>apply_rear_right_wheel_brake</seg>
+        </bo>
+        <position x="412.3528137207031" y="43.333333333333336"/>
+      </element>
+      <element uuid="8a567d72-5b8a-463c-8ae2-29e7d75ab7d2" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_rear_left_wheel_speed</seg>
+        </bo>
+        <position y="160.0"/>
+      </element>
+      <element uuid="81a56e6e-6019-4045-86a2-b05e26bf21f5" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_rear_right_wheel_speed</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="95ba74d3-da7c-4be4-b1d4-ef84513ac842" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_speed</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="92172748-2383-49b1-9418-7938b1cfbe7e" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tcs_on</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>standard_tcs_controller</seg>
+      </bo>
+      <position x="720.68359375" y="149.0"/>
+      <size width="603.7277984619141" height="210.0"/>
+    </element>
+    <element uuid="7e6ec806-4b52-4b32-8b75-e16631834a4a" manual="true">
+      <element uuid="81dfd0f9-09cd-45bf-ad1c-92be891fbee9" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_acc</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="cd674d47-4f0a-481c-8e30-63f287b21b94" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>tcs_on</seg>
+        </bo>
+        <position x="190.72525787353516" y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>tcs_switch</seg>
+      </bo>
+      <position x="351.5586051940918" y="199.0"/>
+      <size width="242.0091094970703" height="60.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>TCS.impl</seg>
+    </bo>
+    <position/>
+    <size width="1722.9713134765625" height="442.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>TractionControlSystem::TCS.impl</seg>
+    </context>
+  </config>
+</diagram:Diagram>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="c471bb33-8c4b-4ea0-ac6e-c87f3b0157d3" manual="true">
+    <element uuid="c132f42f-aa0f-4918-b252-05af0685589a" manual="true">
+      <element uuid="bab394e4-111e-4164-af6c-3975eee41b2a" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c0</seg>
+      </bo>
+    </element>
+    <element uuid="b5739bca-e3de-4cf2-9833-ed0e4ff20879" manual="true">
+      <element uuid="04ede87d-d478-44d7-8b48-ecc4694d495e" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c1</seg>
+      </bo>
+    </element>
+    <element uuid="7feb7701-0907-45da-bf59-0fce2bd7a3f9" manual="true">
+      <element uuid="92456a2b-6e8d-40bf-a37c-82c8ec8c29a0" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c2</seg>
+      </bo>
+    </element>
+    <element uuid="45c00ccc-47bc-484b-b6db-928551722147" manual="true">
+      <element uuid="36cd2588-0cc1-44bb-93e6-c22c5fbd5f08" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c3</seg>
+      </bo>
+    </element>
+    <element uuid="6380d6a6-080d-46ea-8240-f1ec255d5942" manual="true">
+      <element uuid="7992f861-d1cf-4676-905e-79cdf67dbd9c" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c4</seg>
+      </bo>
+    </element>
+    <element uuid="adc55f54-33f2-437c-89b3-0b05be2181eb" manual="true">
+      <element uuid="76270091-c0d5-4662-a228-fed87d147576" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c5</seg>
+      </bo>
+    </element>
+    <element uuid="ecead0cb-2c3d-46fd-bc29-4aca2686df03" manual="true">
+      <element uuid="5ab7ce62-c89c-4f65-94cb-7748a9c9f714" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c6</seg>
+      </bo>
+    </element>
+    <element uuid="f0f73ec1-1281-4393-9f0f-ca0eeae724a5" manual="true">
+      <element uuid="44491962-6dbe-4533-98ec-8132fbd649da" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c7</seg>
+      </bo>
+    </element>
+    <element uuid="216b57c9-9568-4f66-a879-7e6dab74f96d" manual="true">
+      <element uuid="c5dbfc90-701f-4578-bee7-a81bb4a6317a" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c8</seg>
+      </bo>
+      <bendpoints>
+        <point x="458.0" y="173.0"/>
+        <point x="458.0" y="220.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="93175a3a-d132-4478-887e-4811d8737152" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>apply_rear_left_wheel_brake</seg>
+      </bo>
+      <position x="1286.7760314941406" y="198.0"/>
+    </element>
+    <element uuid="a1f87127-306a-4f45-9c72-8fa8147fa8bc" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>apply_rear_right_wheel_brake</seg>
+      </bo>
+      <position x="1278.625015258789" y="98.0"/>
+    </element>
+    <element uuid="9be3d7b1-4621-426d-9407-33c598df8f9b" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>current_rear_left_wheel_speed</seg>
+      </bo>
+      <position y="98.0"/>
+    </element>
+    <element uuid="ffe73dca-2174-4b93-a677-60dc5666b6e5" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>current_rear_right_wheel_speed</seg>
+      </bo>
+      <position y="248.0"/>
+    </element>
+    <element uuid="ef5178fb-8717-46a9-84b8-0f9be71e8795" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>current_speed</seg>
+      </bo>
+      <position y="151.0"/>
+    </element>
+    <element uuid="ba83d6f2-2f36-4741-adf7-0346b15d6ee1" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>tcs_on</seg>
+      </bo>
+      <position y="48.0"/>
+    </element>
+    <element uuid="88791258-d96a-4a41-9758-61bd3f7aae6b" manual="true">
+      <element uuid="4a56e5f6-45ee-4807-8df1-0cce6fb3d678" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>perform_tcs</seg>
+        </bo>
+        <position x="235.18490600585938" y="10.0"/>
+      </element>
+      <element uuid="7909a1b8-35e1-47c8-aa21-2ef5696f8efb" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>tcs_on</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>check_tcs_state</seg>
+      </bo>
+      <position x="308.4068069458008" y="38.0"/>
+      <size width="317.5755310058594" height="60.0"/>
+    </element>
+    <element uuid="b8879a9f-1cbf-4e33-ae1f-336610a4a0a7" manual="true">
+      <element uuid="0ed352fd-0795-4e90-bf1b-9761998557f3" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>car_state</seg>
+        </bo>
+        <position x="299.70964431762695" y="10.0"/>
+      </element>
+      <element uuid="3109b21c-0e20-4c0f-99f0-d1c14dbbaa5d" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_speed</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>establish_car_state</seg>
+      </bo>
+      <position x="240.0" y="140.0"/>
+      <size width="366.5533905029297" height="70.0"/>
+    </element>
+    <element uuid="0068b03b-1fc6-41dc-b03e-33ced4039d56" manual="true">
+      <element uuid="8245cbce-168a-4db0-897a-54df2fdaca07" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>apply_rear_left_wheel_brake</seg>
+        </bo>
+        <position x="369.3710250854492" y="160.0"/>
+      </element>
+      <element uuid="699fa92c-f7fb-422c-88f3-96cb14c927d3" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>apply_rear_right_wheel_brake</seg>
+        </bo>
+        <position x="361.22000885009766" y="60.0"/>
+      </element>
+      <element uuid="5c8c1e94-3039-4baf-a516-49f7dd11164d" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>car_state</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="6da408ce-5574-4c85-814b-6993036781d9" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_rear_left_wheel_speed</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="6aaafc59-c3e3-4d50-b99f-0d3b3326a030" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_rear_right_wheel_speed</seg>
+        </bo>
+        <position y="210.0"/>
+      </element>
+      <element uuid="b36a5fd7-390a-4e6a-a879-b2562f93b5da" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>current_speed</seg>
+        </bo>
+        <position y="160.0"/>
+      </element>
+      <element uuid="dbda5bfe-bd12-4250-b94b-1fd377fc0ac0" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>perform_tcs</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>fix_wheel_spin</seg>
+      </bo>
+      <position x="670.4712829589844" y="38.0"/>
+      <size width="552.5949935913086" height="260.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>tcs_controller.impl</seg>
+    </bo>
+    <position x="360.0" y="-10.0"/>
+    <size width="1470.0" height="310.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>TractionControlSystem::tcs_controller.impl</seg>
+    </context>
+  </config>
+</diagram:Diagram>
